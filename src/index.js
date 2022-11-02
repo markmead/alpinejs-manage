@@ -1,8 +1,11 @@
 export default function (Alpine) {
-  Alpine.directive(
-    '[name]',
-    (el, { value, modifiers, expression }, { Alpine, effect, cleanup }) => {}
-  )
+  Alpine.magic('manage', () => (targetEl) => {
+    const foundEl = document.querySelector(targetEl)
 
-  Alpine.magic('[name]', (el, { Alpine }) => {})
+    if (!foundEl) {
+      return
+    }
+
+    return Alpine.$data(foundEl)
+  })
 }

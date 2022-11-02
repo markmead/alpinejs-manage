@@ -1,3 +1,3 @@
-import FILE from '../src/index.js'
+import manage from '../src/index.js'
 
-export default FILE
+export default manage
