@@ -1,6 +1,6 @@
 # Alpine JS Manage
 
-Manage another Alpine JS element 👩‍✈️
+Manage another Alpine JS elements `x-data` values 👩‍✈️
 
 ## Install
 

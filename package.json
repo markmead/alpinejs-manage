@@ -1,7 +1,7 @@
 {
   "name": "alpinejs-manage",
-  "version": "1.0.0",
-  "description": "Description of the plugin",
+  "version": "1.0.1",
+  "description": "Manage another Alpine JS elements `x-data` values 👩‍✈️",
   "keywords": [
     "Alpine",
     "Alpine JS",
