@@ -1,5 +1,3 @@
 import manage from '../src/index.js'
 
-document.addEventListener('alpine:init', () => {
-  window.Alpine.plugin(manage)
-})
+document.addEventListener('alpine:init', () => window.Alpine.plugin(manage))
