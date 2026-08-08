@@ -1,6 +1,6 @@
 # Alpine JS Manage
 
-Manage another Alpine JS elements `x-data` values 👩‍✈️
+Manage another Alpine JS element's `x-data` values 👩‍✈️
 
 > [!NOTE]
 > **This project is archived.** This plugin is a one-liner over

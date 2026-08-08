@@ -1,13 +1,14 @@
 {
   "name": "alpinejs-manage",
   "version": "2.0.0",
-  "description": "Manage another Alpine JS elements `x-data` values 👩‍✈️",
+  "description": "Manage another Alpine JS element's `x-data` values 👩‍✈️",
   "keywords": [
     "alpine",
     "alpinejs",
     "alpinejs-plugin",
-    "manage",
-    "x-data"
+    "x-data",
+    "cross-component",
+    "shared-state"
   ],
   "license": "MIT",
   "author": "Mark Mead",
